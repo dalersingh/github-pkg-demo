@@ -3,7 +3,7 @@
   "repository": {
     "url": "git://github.com/dalersingh/github-pkg-demo.git"
   },
-  
+
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,7 +12,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  
+  "license": "ISC" 
 
 }
